@@ -1,0 +1,13 @@
+C:\Users\juank\source\repos\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.exe
+C:\Users\juank\source\repos\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.deps.json
+C:\Users\juank\source\repos\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.runtimeconfig.json
+C:\Users\juank\source\repos\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.runtimeconfig.dev.json
+C:\Users\juank\source\repos\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.dll
+C:\Users\juank\source\repos\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.pdb
+C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.csprojAssemblyReference.cache
+C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.AssemblyInfoInputs.cache
+C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.AssemblyInfo.cs
+C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.csproj.CoreCompileInputs.cache
+C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.dll
+C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.pdb
+C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.genruntimeconfig.cache

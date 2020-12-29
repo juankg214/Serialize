@@ -1,0 +1,311 @@
+<Afiliacion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Id>0</Id>
+    <VersionIPAD xsi:nil="true" />
+    <NumeroAfiliacionIPAD>98901321</NumeroAfiliacionIPAD>
+    <NumeroAfiliacionApolo>98901321</NumeroAfiliacionApolo>
+    <EstadoVenta>Radicada</EstadoVenta>
+    <TipoAfiliacion>Prepagada</TipoAfiliacion>
+    <FechaSolicitud>2020-12-17T18:35:19</FechaSolicitud>
+    <TipoContrato>Colectivo</TipoContrato>
+    <FamiliarTipo xsi:nil="true" />
+    <TipoMovimiento>FamiliaNueva</TipoMovimiento>
+    <NumeroContrato xsi:nil="true" />
+    <NumeroContratoCambioPlan xsi:nil="true" />
+    <Familia xsi:nil="true" />
+    <FechaInicioVigencia>2020-10-20T00:00:00</FechaInicioVigencia>
+    <FechaInicioVigenciaAntigua xsi:nil="true" />
+    <EsFechaEmpalme>false</EsFechaEmpalme>
+    <FechaFinVigencia xsi:nil="true" />
+    <NumeroFUAI xsi:nil="true" />
+    <LiquidacionAfectada>false</LiquidacionAfectada>
+    <CambioFechaVigencia>false</CambioFechaVigencia>
+    <FechaFinVenta>2020-12-17T18:36:52</FechaFinVenta>
+    <Plan>
+        <Codigo>50</Codigo>
+        <Nombre>50 - ZAFIRO ÉLITE</Nombre>
+        <Producto>
+            <Id>03</Id>
+            <Nombre>MEDICINA PREPAGADA</Nombre>
+        </Producto>
+    </Plan>
+    <Anexo>Basico</Anexo>
+    <Colectivo>
+        <Codigo>900566396</Codigo>
+        <Nombre>57 TEAM SAS</Nombre>
+    </Colectivo>
+    <Afiliado>
+        <Id>0</Id>
+        <TipoIdentificacion>CE</TipoIdentificacion>
+        <NumeroIdentificacion>888899993</NumeroIdentificacion>
+        <PrimerNombre>LAURA</PrimerNombre>
+        <SegundoNombre xsi:nil="true"/>
+        <PrimerApellido>PRUEBA</PrimerApellido>
+        <SegundoApellido xsi:nil="true"/>
+        <FechaNacimiento>1999-04-13T00:00:00</FechaNacimiento>
+        <Sexo>M</Sexo>
+        <DireccionResidencia>
+            <Direccion>Calle 4C No. 34C-18</Direccion>
+            <Telefono>3105556669</Telefono>
+            <Ciudad>
+                <IdCiudad>11001</IdCiudad>
+                <NombreCiudad>BOGOTA</NombreCiudad>
+                <Departamento>
+                    <IdDepartamento>11</IdDepartamento>
+                    <NombreDepartamento>BOGOTÁ</NombreDepartamento>
+                </Departamento>
+            </Ciudad>
+            <Mail>JGOMEZ@WORKAPPS.COM.CO</Mail>
+            <Celular>3105556669</Celular>
+        </DireccionResidencia>
+        <DireccionCorrespondencia>
+            <Direccion>Calle 4C No. 34C-18</Direccion>
+            <Telefono>3105556669</Telefono>
+            <Ciudad>
+                <IdCiudad>11001</IdCiudad>
+                <NombreCiudad>BOGOTA</NombreCiudad>
+                <Departamento>
+                    <IdDepartamento>11</IdDepartamento>
+                    <NombreDepartamento>BOGOTÁ</NombreDepartamento>
+                </Departamento>
+            </Ciudad>
+            <Mail>JGOMEZ@WORKAPPS.COM.CO</Mail>
+            <Celular>3105556669</Celular>
+        </DireccionCorrespondencia>
+        <EsBeneficiario>true</EsBeneficiario>
+        <MedicoAdscrito>false</MedicoAdscrito>
+        <LecturaCodBarras xsi:nil="true"/>
+    </Afiliado>
+    <CantidadBeneficiarios>1</CantidadBeneficiarios>
+    <Beneficiarios>
+        <Beneficiario>
+            <Id>0</Id>
+            <TipoIdentificacion>CE</TipoIdentificacion>
+            <NumeroIdentificacion>888899993</NumeroIdentificacion>
+            <PrimerNombre>LAURA</PrimerNombre>
+            <SegundoNombre xsi:nil="true" />
+            <PrimerApellido>PRUEBA</PrimerApellido>
+            <SegundoApellido xsi:nil="true"/>
+            <FechaNacimiento>1999-04-13T00:00:00</FechaNacimiento>
+            <Sexo>M</Sexo>
+            <BebeColmedica xsi:nil="true"/>
+            <Parentesco>
+                <Id>T</Id>
+                <Nombre>Contratante</Nombre>
+            </Parentesco>
+            <Edad>21</Edad>
+            <EstadoCivil>
+                <Id>1</Id>
+                <Nombre>SOLTERO(A)</Nombre>
+            </EstadoCivil>
+            <DireccionResidencia>
+                <Direccion>Calle 4C No. 34C-18</Direccion>
+                <Telefono>3105556669</Telefono>
+                <Ciudad>
+                    <IdCiudad>11001</IdCiudad>
+                    <NombreCiudad>BOGOTA</NombreCiudad>
+                    <Departamento>
+                        <IdDepartamento>11</IdDepartamento>
+                        <NombreDepartamento>BOGOTÁ</NombreDepartamento>
+                    </Departamento>
+                </Ciudad>
+                <Mail>JGOMEZ@WORKAPPS.COM.CO</Mail>
+                <Celular>3105556669</Celular>
+            </DireccionResidencia>
+            <CiaPASAnterior>
+                <Id>0</Id>
+                <Codigo xsi:nil="true"/>
+                <FechaDesde xsi:nil="true"/>
+                <FechaHasta xsi:nil="true"/>
+                <BeneficioBebeColmedica>false</BeneficioBebeColmedica>
+                <CertificadoAntiguedad>false</CertificadoAntiguedad>
+                <VieneOtraMedPre>false</VieneOtraMedPre>
+            </CiaPASAnterior>
+            <ExamenAdmision>false</ExamenAdmision>
+            <EpsActual>100010</EpsActual>
+            <ValorPlenoMes>1</ValorPlenoMes>
+            <ValorNetoMes>1</ValorNetoMes>
+            <BeneficiarioNuevo>true</BeneficiarioNuevo>
+            <BenefOtroPlanPrepagada>false</BenefOtroPlanPrepagada>
+            <NumeroContratoSolicitud xsi:nil="true"/>
+            <LecturaCodBarras xsi:nil="true"/>
+            <Consecutivo>0</Consecutivo>
+            <InfoCompleta>false</InfoCompleta>
+        </Beneficiario>
+    </Beneficiarios>
+    <AdicionalMaternidad>false</AdicionalMaternidad>
+    <CoberturaMaternidad>
+        <IdMaternidad>0</IdMaternidad>
+        <Identificaicon xsi:nil="true" />
+        <FUR xsi:nil="true" />
+        <ValorCoberturaSinIva xsi:nil="true" />
+        <ValorCoberturaConIva xsi:nil="true" />
+        <ValorCuota xsi:nil="true" />
+        <NumeroMaximoCuotas xsi:nil="true"/>
+        <NumeroCuotas xsi:nil="true"/>
+    </CoberturaMaternidad>
+    <Liquidacion>
+        <IdLiquidacion>0</IdLiquidacion>
+        <CodigoTarifa>0123456789</CodigoTarifa>
+        <ModalidadPago>4</ModalidadPago>
+        <TarjetaMarcaCompartida>false</TarjetaMarcaCompartida>
+        <AutorizaDebitoAutomatico>false</AutorizaDebitoAutomatico>
+        <PorcDesModalidadPago>1</PorcDesModalidadPago>
+        <DescuentoAnticipadoPOS>0</DescuentoAnticipadoPOS>
+        <DescuentoPromocional>false</DescuentoPromocional>
+        <TotalPlenoMes>1</TotalPlenoMes>
+        <TotalNetoMes>1</TotalNetoMes>
+        <ValorModalidadPago>1</ValorModalidadPago>
+        <ValorCuotaInscripcion>1</ValorCuotaInscripcion>
+        <ValorIVA>1</ValorIVA>
+        <TotalPago>1</TotalPago>
+        <RecibosCaja>
+            <string xsi:nil="true" />
+        </RecibosCaja>
+        <DebitoAutomatico>
+            <Id>0</Id>
+            <FechaDiligenciamiento xsi:nil="true" />
+            <Ciudad >
+                <NombreCiudad xsi:nil="true"/>
+            </Ciudad>
+            <Establecimiento>
+                <Nombre xsi:nil="true"/>
+            </Establecimiento>
+            <MedioPago xsi:nil="true" />
+            <TipoTarjetaCredito xsi:nil="true"/>
+            <VencimientoTarjeta xsi:nil="true"/>
+            <DescuentoDesde xsi:nil="true" />
+            <NumeroCuotas xsi:nil="true" />
+            <NumeroCuentaTarjeta xsi:nil="true" />
+            <NumeroContratoMP xsi:nil="true" />
+            <EntidadFinanciera>
+                <Nombre xsi:nil="true" />
+            </EntidadFinanciera>
+            <TarjetaHabiente>
+                <Id>0</Id>
+                <TipoIdentificacion xsi:nil="true"/>
+                <NumeroIdentificacion xsi:nil="true"/>
+                <PrimerNombre xsi:nil="true"/>
+                <SegundoNombre xsi:nil="true"/>
+                <PrimerApellido xsi:nil="true"/>
+                <SegundoApellido xsi:nil="true"/>
+                <FechaNacimiento xsi:nil="true"/>
+                <Sexo xsi:nil="true"/>
+                <EsContratante>true</EsContratante>
+                <DireccionCorrespondencia>
+                    <Direccion xsi:nil="true"/>
+                    <Telefono xsi:nil="true"/>
+                    <Ciudad>
+                        <NombreCiudad xsi:nil="true"/>
+                        <Departamento>
+                            <NombreDepartamento xsi:nil="true"/>
+                        </Departamento>
+                    </Ciudad>
+                </DireccionCorrespondencia>
+            </TarjetaHabiente>
+        </DebitoAutomatico>
+        <LiquidacionManual>true</LiquidacionManual>
+        <TipoLiquidacionManual xsi:nil="true" />
+    </Liquidacion>
+    <Asesor>
+        <Id>0</Id>
+        <FechaNacimiento xsi:nil="true" />
+        <Sexo xsi:nil="true"/>
+        <Clave>12625</Clave>
+        <CodigoOficina>205</CodigoOficina>
+        <Telefono>3105556669</Telefono>
+        <AsesorExterno>false</AsesorExterno>
+    </Asesor>
+    <CantidadDocumentos>0</CantidadDocumentos>
+    <UtilizarDatosContacto>true</UtilizarDatosContacto>
+    <CompartirDatosContacto>true</CompartirDatosContacto>
+    <InformadoTratamientoDatos>true</InformadoTratamientoDatos>
+    <MensajeAlerta xsi:nil="true" />
+    <EstadoProceso>NoDefinida</EstadoProceso>
+    <ContratoImportado>false</ContratoImportado>
+    <RechazoVigencia xsi:nil="true"/>
+    <ReconsRechazoVigencia xsi:nil="true" />
+    <RechazoPlan xsi:nil="true" />
+    <TipoPreAprobacion xsi:nil="true" />
+    <EstadoPreAprobacion>NoDefinida</EstadoPreAprobacion>
+    <FechaPreAprobacion xsi:nil="true" />
+    <Editada>false</Editada>
+    <MotivoFueraLinea xsi:nil="true" />
+    <InclusionCambioPlan>false</InclusionCambioPlan>
+    <NuevoEstadoSaludEsmeraldaAmbu>true</NuevoEstadoSaludEsmeraldaAmbu>
+    <UtilizarCorreo xsi:nil="true" />
+    <CopiaHistoriaClinica xsi:nil="true" />
+    <FueraLineaInico>0</FueraLineaInico>
+    <FueraLineaConexion xsi:nil="true" />
+    <Documentos>
+        <DocumentoAfiliacion>
+            <Id>9</Id>
+            <Tipo>AdjuntosWeb</Tipo>
+            <EsBeneficiario>true</EsBeneficiario>
+            <TipoIdentificacion>CE</TipoIdentificacion>
+            <Identificacion>888899993</Identificacion>
+        </DocumentoAfiliacion>
+        <DocumentoAfiliacion>
+            <Id>16</Id>
+            <Tipo>AdjuntosWeb</Tipo>
+            <EsBeneficiario>true</EsBeneficiario>
+            <TipoIdentificacion>CE</TipoIdentificacion>
+            <Identificacion>888899993</Identificacion>
+        </DocumentoAfiliacion>
+        <DocumentoAfiliacion>
+            <Id>17</Id>
+            <Tipo>AdjuntosWeb</Tipo>
+            <EsBeneficiario>true</EsBeneficiario>
+            <TipoIdentificacion>CE</TipoIdentificacion>
+            <Identificacion>888899993</Identificacion>
+        </DocumentoAfiliacion>
+        <DocumentoAfiliacion>
+            <Id>18</Id>
+            <Tipo>AdjuntosWeb</Tipo>
+            <EsBeneficiario>true</EsBeneficiario>
+            <TipoIdentificacion>CE</TipoIdentificacion>
+            <Identificacion>888899993</Identificacion>
+        </DocumentoAfiliacion>
+        <DocumentoAfiliacion>
+            <Id>19</Id>
+            <Tipo>AdjuntosWeb</Tipo>
+            <EsBeneficiario>true</EsBeneficiario>
+            <TipoIdentificacion>CE</TipoIdentificacion>
+            <Identificacion>888899993</Identificacion>
+        </DocumentoAfiliacion>
+        <DocumentoAfiliacion>
+            <Id>26</Id>
+            <Tipo>AdjuntosWeb</Tipo>
+            <EsBeneficiario>true</EsBeneficiario>
+            <TipoIdentificacion>CE</TipoIdentificacion>
+            <Identificacion>888899993</Identificacion>
+        </DocumentoAfiliacion>
+        <DocumentoAfiliacion>
+            <Id>1</Id>
+            <Tipo>PdfSolicitud</Tipo>
+            <EsBeneficiario>false</EsBeneficiario>
+            <TipoIdentificacion xsi:nil="true" />
+            <Identificacion xsi:nil="true" />
+        </DocumentoAfiliacion>
+        <DocumentoAfiliacion>
+            <Id>6</Id>
+            <Tipo>PdfSolicitud</Tipo>
+            <EsBeneficiario>false</EsBeneficiario>
+            <TipoIdentificacion xsi:nil="true" />
+            <Identificacion xsi:nil="true" />
+        </DocumentoAfiliacion>
+        <DocumentoAfiliacion>
+            <Id>2</Id>
+            <Tipo>PdfSolicitud</Tipo>
+            <EsBeneficiario>false</EsBeneficiario>
+            <TipoIdentificacion xsi:nil="true" />
+            <Identificacion xsi:nil="true" />
+        </DocumentoAfiliacion>
+        <DocumentoAfiliacion>
+            <Id>3</Id>
+            <Tipo>PdfSolicitud</Tipo>
+            <EsBeneficiario>false</EsBeneficiario>
+            <TipoIdentificacion xsi:nil="true" />
+            <Identificacion xsi:nil="true" />
+        </DocumentoAfiliacion>
+    </Documentos>
+</Afiliacion>
