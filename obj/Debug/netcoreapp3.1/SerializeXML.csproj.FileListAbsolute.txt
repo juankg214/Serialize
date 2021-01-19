@@ -11,3 +11,16 @@ C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.cs
 C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.dll
 C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.pdb
 C:\Users\juank\source\repos\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.genruntimeconfig.cache
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\bin\Debug\netcoreapp3.1\SerializeXML.exe
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\bin\Debug\netcoreapp3.1\SerializeXML.deps.json
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\bin\Debug\netcoreapp3.1\SerializeXML.runtimeconfig.json
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\bin\Debug\netcoreapp3.1\SerializeXML.runtimeconfig.dev.json
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\bin\Debug\netcoreapp3.1\SerializeXML.dll
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\bin\Debug\netcoreapp3.1\SerializeXML.pdb
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\obj\Debug\netcoreapp3.1\SerializeXML.csprojAssemblyReference.cache
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\obj\Debug\netcoreapp3.1\SerializeXML.AssemblyInfoInputs.cache
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\obj\Debug\netcoreapp3.1\SerializeXML.AssemblyInfo.cs
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\obj\Debug\netcoreapp3.1\SerializeXML.csproj.CoreCompileInputs.cache
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\obj\Debug\netcoreapp3.1\SerializeXML.dll
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\obj\Debug\netcoreapp3.1\SerializeXML.pdb
+C:\Users\juank\OneDrive\Documentos\Github\Serialize\obj\Debug\netcoreapp3.1\SerializeXML.genruntimeconfig.cache

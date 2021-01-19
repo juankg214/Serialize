@@ -18,7 +18,7 @@ namespace SerializeXML
                 xmlObject = (XMLObjectModel)serializer.Deserialize(sr);
             }
 
-            Console.WriteLine(xmlObject.Plan.Producto.Id);
+            Console.WriteLine(xmlObject.Beneficiarios[0].PrimerApellido);
 
            
         }
